@@ -1,0 +1,6 @@
+# macOS 系统文件
+.DS_Store
+**/.DS_Store
+
+# 注意：.workbuddy/memory 必须入库，里面是项目记忆与定时任务日志，
+# 换机同步依赖它，切勿忽略。
